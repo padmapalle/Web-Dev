@@ -13,10 +13,11 @@ require_once "header.php";
                         <h4>INR 46900 Rupees</h4>
                         <br>
                         <h3>Product Details</h3>
-                        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Enim ipsum officia mollitia nisi
-                            minima
-                            ut? Cupiditate ad consectetur, recusandae enim dicta itaque nihil eveniet asperiores veniam,
-                            veritatis, ea ipsam aspernatur? Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis necessitatibus magni est accusamus neque maiores vero corporis tenetur eius, repellat porro magnam amet illum in laudantium culpa atque alias illo.</p>
+                        <p> RedmiBook 15 Pro
+                            i5 11th Gen 
+                            Iris Xe Graphics
+                            8GB RAM 
+                            512GB SSD * 1</p>
                         <br>Colour : 
                         <select name="colour" id="colour">
                             <option value="">Select Colour</option>
